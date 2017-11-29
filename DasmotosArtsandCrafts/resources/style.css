@@ -1,0 +1,43 @@
+body{
+  background-image:url(https://get.pxhere.com/photo/brush-color-paint-blue-paint-brush-paintbrush-material-painting-thread-textile-art-504694.jpg);
+  opacity:0.82;
+}
+h1{
+  background-image:url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  font-size:100px;
+  font-weight:bold;
+  color:khaki;
+  text-align:center;
+  font-family:Helvetica;
+}
+h2{
+  font-family:Helvetica;
+  font-size:32px;
+  font-weight:bold;
+  color:white;
+}
+h3{
+  color:white;
+  background-color:coral;
+}
+p{
+  color:white;
+  background-color:coral;
+}
+.brushes{
+  background-color:mediumspringgreen;
+  opacity:.739;
+}
+.frames{
+  background-color:lightcoral;
+  opacity:.739;
+}
+.paint{
+  background-color:skyblue;
+  opacity:.739;
+}
+.price{
+  font-family:Helvetica;
+  font-weight:bold;
+  color:blue;
+}
